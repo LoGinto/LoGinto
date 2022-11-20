@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LoGinto
-- 👀 I’m a game development
+- 👀 I’m a game developer
 - 🌱 I’m currently working with the Unity engine
 - 💞️ I’m looking to collaborate on games
 - 📫 Reach me raining.cycles@gmail.com or @raining_cycles(twitter)
