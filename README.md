@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @LoGinto
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning the Unity engine
+- 👀 I’m a game development
+- 🌱 I’m currently working with the Unity engine
 - 💞️ I’m looking to collaborate on games
-- 📫 How to reach me raining.cycles@gmail.com
+- 📫 Reach me raining.cycles@gmail.com or @raining_cycles(twitter)
+- 🌐 My website: http://rainingcycles.rf.gd/
 
 <!---
 LoGinto/LoGinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
