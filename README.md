@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoGinto
+- 👋 Hi, I’m Emil
 - 👀 I’m a game developer
 - 🌱 I’m currently working with the Unity engine
 - 💞️ I’m looking to collaborate on games
