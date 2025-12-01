@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emil
+- 👋 Hi, I’m Emilio
 - 👀 I’m a game developer
 - 🌱 I’m currently working with the Unity engine/Roblox
 - 💞️ I’m looking to collaborate on games
