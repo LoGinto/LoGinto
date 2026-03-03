@@ -20,6 +20,10 @@ Top-down zombie shooter with waves and survival. Solo dev (code & design, except
 
 **Video Showcase:**  
 [Watch on X](https://x.com/raining_cycles/status/2028882535762043355)
+[Trailer](https://www.youtube.com/watch?v=fOkTr4jESGM)
+
+**More from Raining Cycles:**  
+[Developer Page (4 published games)](https://play.google.com/store/apps/dev?id=8985293925785153884)
 
 ### WIP Top-Down Arena Shooter (In Development)
 Mobile survival with random events, supply drops, and dialogues.
@@ -33,6 +37,8 @@ Mobile survival with random events, supply drops, and dialogues.
 Physics-based jumper with massive scaling. (Currently down)
 
 [Roblox Page](https://www.roblox.com/games/107901997399037/Highest-Jump-Ever)
+
+
 
 ## Connect
 - 📧 raining.cycles@gmail.com  
