@@ -1,6 +1,6 @@
 <div align="center">
 
-# Emilio Gris 👽 - Unity Game Programmer
+# Emilio - Unity Game Programmer
 **Tbilisi-based indie dev**  
 Shipped Dead Mania (5K+ downloads on Android)  
 Roblox: Highest Jump Ever? (7.4M+ visits)  
