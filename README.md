@@ -1,6 +1,6 @@
 <div align="center">
 
-# Emilio - Unity Game Programmer
+# Emil - Unity Game Programmer
 **Tbilisi-based indie dev**  
 Shipped Dead Mania (5K+ downloads on Android)  
 Roblox: Highest Jump Ever? (7.4M+ visits)  
